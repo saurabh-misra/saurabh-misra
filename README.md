@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React, Node and Gatsby
 - 💞️ I’m looking to collaborate on anything related to Javascript
-- 📫 How to reach me: Email me at saurabhmisra.dev@gmail.com
+- 📫 How to reach me: Email me at hello@saurabhmisra.dev
 
 <!---
 saurabh-misra/saurabh-misra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
