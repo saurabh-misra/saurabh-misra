@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saurabh-misra
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React, Node and Gatsby
-- 💞️ I’m looking to collaborate on anything related to Javascript
+- 💞️ I’m looking to collaborate on anything related to Web Development
 - 📫 How to reach me: Email me at hello@saurabhmisra.dev
 
 <!---
