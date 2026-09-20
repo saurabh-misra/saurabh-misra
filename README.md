@@ -1,17 +1,15 @@
 ### Saurabh Misra
-
 Senior full-stack engineer based in Mumbai, India, working remotely with US-based teams.
 
-17+ years building and maintaining production web systems — most of that time as the sole developer or in a small senior team, owning projects end-to-end. Deep specialization in **ColdFusion (CFML)**, **SQL Server** and **REST APIs**, with modern range across **React.js, Node.js, Express.js and AI-augmented development**.
+17+ years building and owning production web systems end-to-end — most of it as the sole developer for a single long-term client. Hands-on depth in the modern JavaScript/TypeScript ecosystem — React, Node.js, Express, TypeScript — backed by 13+ years of production experience in ColdFusion (CFML), SQL Server, and REST API design from long-term client work.
 
-I'm comfortable working across all kinds of codebases, but I have particular depth in legacy systems that need a senior engineer who can maintain, extend, integrate, or modernize them without breaking what's working.
+Comfortable across legacy and modern codebases alike — equally at home extending a decade-old system without breaking it, or building something new with the current stack.
 
----
+Open to: senior remote full-time roles and freelance contract work (hourly or fixed-bid).
 
-**Open to:** senior remote full-time roles and freelance contract work (hourly or fixed-bid).
+Reach me:
 
-**Reach me:**
-- 🌐 [saurabhmisra.dev](https://www.saurabhmisra.dev/)
-- ✉️ hello@saurabhmisra.dev
-- 💼 [LinkedIn](https://www.linkedin.com/in/saurabh--misra/)
-- ✍️ [Blog](https://www.saurabhmisra.dev/blog/) — notes on SQL Server, REST APIs, React.js and more
+🌐 saurabhmisra.dev
+✉️ hello@saurabhmisra.dev
+💼 LinkedIn
+✍️ Blog — notes on Node.js, React, and modern JavaScript/TypeScript
